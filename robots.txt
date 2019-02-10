@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kairoh.devtoolsecrets.com/sitemap.xml
